@@ -1,0 +1,6 @@
+[submodule "vendor/idna-convert"]
+	path = vendor/idna-convert
+	url = https://github.com/phlylabs/idna-convert.git
+[submodule "vendor/smarty"]
+	path = vendor/smarty
+	url = https://github.com/smarty-php/smarty.git
